@@ -1,6 +1,6 @@
 # prepend-to-npm-script [![Build Status](https://travis-ci.org/mightyiam/prepend-to-npm-script.svg?branch=master)](https://travis-ci.org/mightyiam/prepend-to-npm-script) [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-Helps you prepend things to npm scripts.
+Helps you prepend to npm scripts.
 
 ## Usage
 
