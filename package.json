@@ -1,6 +1,6 @@
 {
   "name": "prepend-to-npm-script",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prepends to npm scripts",
   "main": "lib/index.js",
   "scripts": {
