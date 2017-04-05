@@ -28,7 +28,7 @@
     "del": "^2.2.2",
     "mkdir-promise": "^1.0.0",
     "read-pkg-up": "^2.0.0",
-    "standard": "^9.0.2",
+    "standard": "^10.0.0",
     "write-pkg": "^2.0.0"
   },
   "dependencies": {
