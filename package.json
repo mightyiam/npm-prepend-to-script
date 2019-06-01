@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/mightyiam/prepend-to-npm-script#readme",
   "devDependencies": {
-    "ava": "^1.4.1",
+    "ava": "^2.0.0",
     "del": "^4.1.0",
     "mkdir-promise": "^1.0.0",
     "read-pkg-up": "^5.0.0",
