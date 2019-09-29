@@ -32,6 +32,6 @@
     "write-pkg": "^3.0.0"
   },
   "dependencies": {
-    "modify-pkg-up": "^1.0.1"
+    "modify-pkg-up": "^3.0.0"
   }
 }
